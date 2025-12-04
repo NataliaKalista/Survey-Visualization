@@ -26,6 +26,7 @@ Below is the main view of the report, allowing users to filter data by job title
 4.  **Visualization:** Designed an interactive dashboard using Cards, Bar Charts, Donut Charts, and Treemaps.
 
 ## Files in this Repository
-* `Data Professional Survey.pbix` - The Power BI project file.
+* `FinalProject.pbix` - The Power BI project file.
 * `Power BI - Final Project.xlsx - Data Professional Survey.csv` - The raw dataset used for analysis.
+
 
